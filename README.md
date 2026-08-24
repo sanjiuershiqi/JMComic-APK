@@ -6,6 +6,7 @@
   
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/hect0x7)
 [![GitHub all download](https://img.shields.io/github/downloads/hect0x7/JMComic-APK/total?color=orange&label=github%20downloads)](https://github.com/hect0x7/JMComic-APK/releases/latest)
+[![Download](https://img.shields.io/badge/禁漫APK-去下载-brightgreen?logo=android&logoColor=white)](https://github.com/hect0x7/JMComic-APK/releases/latest)
 [![GitHub latest releases](https://img.shields.io/github/v/release/hect0x7/JMComic-APK?color=blue&label=release)](https://github.com/hect0x7/JMComic-APK/releases/latest)
 
 </div>
